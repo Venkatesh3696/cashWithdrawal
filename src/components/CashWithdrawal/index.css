@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.white-container {
+  height: 100%;
+  background-color: #d4d2db;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container {
+  background-color: #150b3e;
+  height: 600px;
+  width: 500px;
+  padding: 60px;
+  border-radius: 30px;
+}
+.profile-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.profile {
+  width: 60px;
+  height: 60px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  text-align: center;
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+}
+.name {
+  color: #d4d2db;
+  margin-left: 20px;
+}
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.balance-heading {
+  color: #585076;
+}
+.balance {
+  color: #ffffff;
+}
+.buttons-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.with-para {
+  color: #c7d2fe;
+}
+.choose-para {
+  color: #382f5a;
+}
+ul {
+  list-style: none;
+  height: 60px;
+  width: 100%;
+}
